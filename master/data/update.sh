@@ -11,3 +11,5 @@ echo -e "$grn
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>$red ALL MOST DONE$grn<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 sleep 4.0
 cd $HOME
+rm -rf master
+git clone https://github.com/ARO-coader/master.git
