@@ -33,37 +33,37 @@ case $a in
 	1)clear
 		echo -e "$pink NOTE$blue IN THIS FOLDER SOME TOOLS NAME ARE SAME BUT THE  CODERAND and THE TOOL IS DIFFRENT.SO  INSTALL THE TOOL WITHOUT ANY QUESTIONS.THANK Q"
 		sleep 2.0
-		bash /data/data/com.termux/files/home/master/data/data2/a.sh
+		bash /data/data/com.termux/files/home/master/master/data/data2/a.sh
 ;;
 2)clear
                 echo -e "$pink NOTE$blue IN THIS FOLDER SOME TOOLS NAME ARE SAME BUT THE  CODERAND and THE TOOL IS DIFFRENT.SO  INSTALL THE TOOL WITHOUT ANY QUESTIONS.THANK Q"
                 sleep 2.0
-	bash /data/data/com.termux/files/home/master/data/data2/b.sh
+	bash /data/data/com.termux/files/home/master/master/data/data2/b.sh
 	;;
 3)clear
                 echo -e "$pink NOTE$blue IN THIS FOLDER SOME TOOLS NAME ARE SAME BUT THE CODERAND and THE TOOL IS DIFFRENT.SO  INSTALL THE TOOL WITHOUT ANY QUESTIONS.THANK Q"
                 sleep 2.0
-	bash /data/data/com.termux/files/home/master/data/data2/c.sh
+	bash /data/data/com.termux/files/home/master/master/data/data2/c.sh
 	;;
 4)clear
                 echo -e "$pink NOTE$blue IN THIS FOLDER SOME TOOLS NAME ARE SAME BUT THE CODERAND and THE TOOL IS DIFFRENT.SO  INSTALL THE TOOL WITHOUT ANY QUESTIONS.THANK Q"
                 sleep 2.0
-	bash /data/data/com.termux/files/home/master/data/data2/d.sh
+	bash /data/data/com.termux/files/home/master/master/data/data2/d.sh
 	;;
 5)clear
                 echo -e "$pink NOTE$blue IN THIS FOLDER SOME TOOLS NAME ARE SAME BUT THE CODERAND and THE TOOL IS DIFFRENT.SO  INSTALL THE TOOL WITHOUT ANY QUESTIONS.THANK Q"
                 sleep 2.0
-	bash /data/data/com.termux/files/home/master/data/data2/e.sh
+	bash /data/data/com.termux/files/home/master/master/data/data2/e.sh
 	;;
 6)clear
                 echo -e "$pink NOTE$blue IN THIS FOLDER SOME TOOLS NAME ARE SAME BUT THE  CODERAND and THE TOOL IS DIFFRENT.SO  INSTALL THE TOOL WITHOUT ANY QUESTIONS.THANK Q"
                 sleep 2.0
-	bash /data/data/com.termux/files/home/master/data/data2/f.sh
+	bash /data/data/com.termux/files/home/master/master/data/data2/f.sh
 	;;
 7)clear
                 echo -e "$pink NOTE$blue IN THIS FOLDER SOME TOOLS NAME ARE SAME BUT THE  CODERAND and THE TOOL IS DIFFRENT.SO  INSTALL THE TOOL WITHOUT ANY QUESTIONS.THANK Q"
                 sleep 2.0
-	bash /data/data/com.termux/files/home/master/data/data2/g.sh
+	bash /data/data/com.termux/files/home/master/master/data/data2/g.sh
 ;;
 esac
 
