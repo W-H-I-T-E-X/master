@@ -6,8 +6,6 @@ ylo='\033[1;33m'
 blue='\033[1;34m'
 cyan='\033[1;36m'
 pink='\033[1;35m'
-apt install ruby
-gem install lolcat
 clear
 echo -e "$rset
 
