@@ -6,6 +6,8 @@ ylo='\033[1;33m'
 blue='\033[1;34m'
 cyan='\033[1;36m'
 pink='\033[1;35m'
+apt install ruby
+gem install lolcat
 clear
 echo -e "$rset
 
@@ -56,42 +58,42 @@ case $n in
 
 		echo " "
 		echo " "
-		bash /data/data/com.termux/files/home/master/data/git_link.sh
+		bash /data/data/com.termux/files/home/master/master/data/git_link.sh
 		sleep 2.0
 		echo -e "$cyan   click ENTER to go back into master menu$rset" |lolcat
 echo " "
 read punch
-cd $HOME/master
+cd $HOME/master/master
 bash master.sh ;;
 	2)echo -e "$red             "
 		sleep 2.0
 		echo " "
 		echo " "
-		bash /data/data/com.termux/files/home/master/data/catagoury.sh
+		bash /data/data/com.termux/files/home/master/master/data/catagoury.sh
 		sleep 2.0
                 echo -e "$cyan   click ENTER to go back into master menu$rset"|lolcat
 echo " "
 read punch
-cd $HOME/master
+cd $HOME/master/master
 bash master.sh ;;
 	3)echo -e "$ylo             "
 		sleep 2.0
 		echo " "
 		echo " "
-		bash /data/data/com.termux/files/home/master/data/About_coder.sh
+		bash /data/data/com.termux/files/home/master/master/data/About_coder.sh
 		sleep 2.0
 	        echo -e "$cyan click ENTER to go back into master menu$rset"|lolcat                     echo " "
 		read punch
-		cd $HOME/AGENT_11815
+		cd $HOME/master/master
 		bash master.sh
                  ;;
 4)echo " "
-	bash /data/data/com.termux/files/home/master/data/update.sh
+	bash /data/data/com.termux/files/home/master/master/data/update.sh
 	sleep 2.0
 	echo -e "$cyan click ENTER to go back into master menu$rset"|lolcat
 	echo " "
 	read punch
-	cd $HOME/master
+	cd $HOME/master/master
 	bash master.sh 
 
 ;;
